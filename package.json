@@ -1,0 +1,21 @@
+{
+  "name": "rickys-theme",
+  "displayName": "Rickys-Theme",
+  "description": "High Contrast Golden Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rickys Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Rickys Theme-color-theme.json"
+      }
+    ]
+  }
+}

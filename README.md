@@ -1,1 +1,1 @@
-# RickysTheme
+# Rickys Theme
